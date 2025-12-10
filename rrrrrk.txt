@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+DUSIAN Education
+        📘 DUSIAN Education
+    </div>
+    <nav>
+        <a href="#home" style="color:white; margin:0 15px; text-decoration:none;">Home</a>
+        <a href="#about" style="color:white; margin:0 15px; text-decoration:none;">About</a>
+        <a href="#courses" style="color:white; margin:0 15px; text-decoration:none;">Courses</a>
+        <a href="#contact" style="color:white; margin:0 15px; text-decoration:none;">Contact</a>
+    </nav>
+
+Welcome to DUSIAN
+Your modern and smart platform for quality education. Learn, grow, and
+achieve your goals with structured courses, notes, and guidance.
+About DUSIAN
+DUSIAN Education एक मॉडर्न लर्निंग प्लेटफ़ॉर्म है जहाँ विद्यार्थी आसान
+भाषा में नोट्स, कोर्सेज़, और एग्ज़ाम प्रिपरेशन सामग्री पा सकते हैं।
+Our Courses
+        <div class="card">
+            <h3>Class 10 Notes</h3>
+            <p>Science, Maths, SST सहित सभी विषयों के आसान और क्लियर नोट्स।</p>
+        </div>
+        <div class="card">
+            <h3>Sample Papers</h3>
+            <p>Model papers और chapter-wise practice sets।</p>
+        </div>
+        <div class="card">
+            <h3>Video Guides</h3>
+            <p>Concept को आसान बनाने वाले video explainers।</p>
+        </div>
+    </div>
+
+Meet the Founder
+        <h3 style="margin-top:0; font-size:24px;">Celibate Boy</h3>
+        <p style="font-size:17px; line-height:1.6;">
+            DUSIAN Education के Founder, जिनका लक्ष्य है हर विद्यार्थी को क्वालिटी शिक्षा उपलब्ध कराना।
+        </p>
+    </div>
+
+Contact Us
+For queries, email us at: dusianedu@gmail.com
+DUSIAN Education © 2025 | All Rights Reserved
