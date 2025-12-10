@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DUSIAN - Modern Education</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background: #f8f8f8;
+        }
+        .navbar {
+            background: #2b2b2b;
+            padding: 15px;
+            color: white;
+            text-align: center;
+            font-size: 22px;
+        }
+        .hero {
+            padding: 40px;
+            text-align: center;
+            background: #ffffff;
+        }
+        .hero h1 {
+            color: #222;
+        }
+        .hero p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        DUSIAN Education
+    </div>
+
+    <div class="hero">
+        <h1>Welcome to DUSIAN</h1>
+        <p>Modern Education Platform for Smart Learning</p>
+    </div>
+
+</body>
+</html>
